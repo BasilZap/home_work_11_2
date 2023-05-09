@@ -10,7 +10,7 @@ def set_text_title(some_text1):
     """
     Функция делает заглавными все
     первые буквы каждого слова
-    :param some_text: str
+    :param some_text1: str
     :return: str
     """
     return str(some_text1).title()
